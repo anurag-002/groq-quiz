@@ -27,9 +27,10 @@ It serves **students, trivia enthusiasts, and casual gamers** by generating **fr
 `The Neural Ninjas`
 
 ### Team Members:  
-- Ankit Sharma (GitHub / LinkedIn / Developer)  
-- Priya Patel (UI Designer / Tester)  
-- Rohan Mehta (Backend Developer)
+- Anurag 
+- Ayishwarya 
+- Chirag
+- Ankit
 
 ### Our Approach:  
 - **Why we chose this problem:**  
@@ -71,16 +72,14 @@ It serves **students, trivia enthusiasts, and casual gamers** by generating **fr
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [*Will be updated after recording*]  
-- **Pitch Deck / PPT Link:** [*Will be added if needed*]  
+- **Demo Video Link:** https://drive.google.com/file/d/18LX6ro3k9KHGGpmoGjrSyRw0IjfO0TlL/view?usp=sharing
+- **Pitch Deck / PPT Link:** https://docs.google.com/presentation/d/1Fz9buS5bdi1hKb_pXEahd5M4i-u2wzbx/edit?usp=sharing&ouid=117693482657087214029&rtpof=true&sd=true
 
 ---
 
 ## ✅ Tasks & Bonus Checklist
 
 - ✅ **All members of the team completed the mandatory task - Followed social channels and filled the form**  
-- ✅ **All members completed Bonus Task 1 - Sharing of Badges**  
-- ✅ **All members completed Bonus Task 2 - Signing up for Sprint.dev**
 
 ---
 
